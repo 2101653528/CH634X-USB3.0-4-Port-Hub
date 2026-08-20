@@ -8,7 +8,7 @@
 
 ![EDA](https://img.shields.io/badge/EDA-立创EDA-orange)
 
-> 基于 **VL812** / **CH634X** 的 USB3.0 四端口集线器硬件设计方案，支持 1 路 USB3.0 上行 + 4 路 USB3.0 下行，具备完整的电源保护与状态指示功能。
+> 基于  **CH634X** 的 USB3.0 四端口集线器硬件设计方案，支持 1 路 USB3.0 上行 + 4 路 USB3.0 下行，具备完整的电源保护与状态指示功能。
 
 ---
 
@@ -17,7 +17,9 @@
 |  3D 渲染图 |  PCB 顶层 |  PCB 底层 |
 | :-----: | :-----: | :-----: |
 | *<img width="904" height="516" alt="image" src="https://github.com/user-attachments/assets/d5a7eb58-1092-4df8-a973-8098af482f95" />
-* | *(待补充)* | *(待补充)* |
+* | *<img width="1704" height="1279" alt="微信图片_20260615175619" src="https://github.com/user-attachments/assets/bbcf3dfd-9584-417e-bfd7-233d8c42a096" />
+* | *<img width="2270" height="1279" alt="微信图片_20260615175614" src="https://github.com/user-attachments/assets/314fc565-1b84-4ed2-88e8-48ff64becee0" />
+* |
 
 > 💡 **提示**：建议上传实物图、3D 渲染图和 PCB 照片至 `assets/` 目录，替换上方占位符。
 
