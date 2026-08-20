@@ -14,11 +14,13 @@
 
 ## 📷 项目效果图
 
-|  3D 渲染图 |  PCB 顶层 |  PCB 底层 |
-| :-----: | :-----: | :-----: |
-| *<img width="904" height="516" alt="image" src="https://github.com/user-attachments/assets/d5a7eb58-1092-4df8-a973-8098af482f95" />
-* | *<img width="1704" height="1279" alt="微信图片_20260615175619" src="https://github.com/user-attachments/assets/bbcf3dfd-9584-417e-bfd7-233d8c42a096" />
-* | *<img width="2270" height="1279" alt="微信图片_20260615175614" src="https://github.com/user-attachments/assets/314fc565-1b84-4ed2-88e8-48ff64becee0" />
+* |  3D 渲染图 |
+<img width="904" height="516" alt="image" src="https://github.com/user-attachments/assets/d5a7eb58-1092-4df8-a973-8098af482f95" />
+
+* |  PCB 顶层 |
+<img width="1704" height="1279" alt="微信图片_20260615175619" src="https://github.com/user-attachments/assets/bbcf3dfd-9584-417e-bfd7-233d8c42a096" />
+*|  PCB 底层 |
+<img width="2270" height="1279" alt="微信图片_20260615175614" src="https://github.com/user-attachments/assets/314fc565-1b84-4ed2-88e8-48ff64becee0" />
 * |
 
 > 💡 **提示**：建议上传实物图、3D 渲染图和 PCB 照片至 `assets/` 目录，替换上方占位符。
