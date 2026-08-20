@@ -16,7 +16,8 @@
 
 |  3D 渲染图 |  PCB 顶层 |  PCB 底层 |
 | :-----: | :-----: | :-----: |
-| ** | *(待补充)* | *(待补充)* |
+| *<img width="904" height="516" alt="image" src="https://github.com/user-attachments/assets/d5a7eb58-1092-4df8-a973-8098af482f95" />
+* | *(待补充)* | *(待补充)* |
 
 > 💡 **提示**：建议上传实物图、3D 渲染图和 PCB 照片至 `assets/` 目录，替换上方占位符。
 
